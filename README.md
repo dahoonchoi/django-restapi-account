@@ -1,3 +1,4 @@
+![django](https://user-images.githubusercontent.com/41640324/128586761-fdaaa919-d3cd-40db-a210-e10a6312638f.jpeg)
 # Django Rest API (Sample Account)
 A simple signup code implementation using Django Rest Framework.
 
@@ -13,7 +14,7 @@ secrets.json
   "SECRET_KEY": "Your Secret Key code"
 }
 ```
-### Installing
+## Installing
 Then install the dependencies:
 ```
 (env)$ pip install djangorestframework
@@ -24,4 +25,5 @@ Once pip has finished downloading the dependencies:
 (env)$ cd project
 (env)$ python manage.py runserver
 ```
-
+It basically provides "Insert, Delete, Update, Select".
+[where the function is executed](https://github.com/dahoonchoi/python-restapi-account/blob/main/app/views.py)
