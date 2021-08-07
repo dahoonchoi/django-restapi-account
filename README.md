@@ -1,5 +1,6 @@
 <p align="center"><img src = "https://user-images.githubusercontent.com/41640324/128586761-fdaaa919-d3cd-40db-a210-e10a6312638f.jpeg" width="60%" height="60%"></p>
 Django Rest API (Sample Account)
+=========================================
 A simple signup code implementation using Django Rest Framework.
 
 ## Getting Started
