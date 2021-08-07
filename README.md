@@ -1,8 +1,7 @@
+<img src = "https://user-images.githubusercontent.com/41640324/128586761-fdaaa919-d3cd-40db-a210-e10a6312638f.jpeg" width="60%" height="60%">
 # Django Rest API (Sample Account)
 A simple signup code implementation using Django Rest Framework.
 
-
-<img src = "https://user-images.githubusercontent.com/41640324/128586761-fdaaa919-d3cd-40db-a210-e10a6312638f.jpeg" width="60%" height="60%">
 ## Getting Started
 ```
 $ git clone https://github.com/dahoonchoi/python-restapi-account.git
