@@ -25,6 +25,6 @@ Once pip has finished downloading the dependencies:
 (env)$ python manage.py runserver
 ```
 It basically provides "Insert, Delete, Update, Select".
-```
+
 [where the function is executed](https://github.com/dahoonchoi/python-restapi-account/blob/main/app/views.py)
-```
+
