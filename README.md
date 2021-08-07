@@ -30,4 +30,3 @@ Once pip has finished downloading the dependencies:
 It basically provides "Insert, Delete, Update, Select":
 
 - [Views.py](https://github.com/dahoonchoi/python-restapi-account/blob/main/app/views.py)
-
