@@ -1,4 +1,4 @@
-<img src = "https://user-images.githubusercontent.com/41640324/128586761-fdaaa919-d3cd-40db-a210-e10a6312638f.jpeg" width="100%" height="100%">
+<p align="center"><img src = "https://user-images.githubusercontent.com/41640324/128586761-fdaaa919-d3cd-40db-a210-e10a6312638f.jpeg" width="100%" height="100%"></p>
 # Django Rest API (Sample Account)
 A simple signup code implementation using Django Rest Framework.
 
