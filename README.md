@@ -2,7 +2,7 @@
 
 Django Rest API (Sample Account)
 =========================================
-A simple signup code implementation using Django Rest Framework.
+A simple signup code implementation using Django Rest Framework
 
 ## Getting Started
 ```
@@ -27,7 +27,7 @@ Once pip has finished downloading the dependencies:
 (env)$ cd project
 (env)$ python manage.py runserver
 ```
-It basically provides "Insert, Delete, Update, Select".
+It basically provides "Insert, Delete, Update, Select":
 
 - [Views.py](https://github.com/dahoonchoi/python-restapi-account/blob/main/app/views.py)
 
